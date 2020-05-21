@@ -1,0 +1,3 @@
+select * from Tblperson
+insert into Table name (field) values (value)
+eg:- insert into Tblperson (Id,Name,Email,Genderid) values (4,'Rajani','rajani@yahoo.com',2)
